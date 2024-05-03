@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BhushanTekade
 - 👀 I’m interested in Software Development , Cloud Computing 
-- 🌱 I’m currently BCCA Final Year Student. And Working in Disha Computer Institute 
+- 🌱 I’m currently MCA Final Year Student.
+- I have 11 months of experience at DISHA COMPUTER INSTITUTE.
 - 💞️ I’m looking to collaborate on Any Type of Software Company 
 - 📫 How to reach me 
 
